@@ -1,0 +1,15 @@
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\bin\Debug\net7.0\InKeyword.exe
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\bin\Debug\net7.0\InKeyword.deps.json
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\bin\Debug\net7.0\InKeyword.runtimeconfig.json
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\bin\Debug\net7.0\InKeyword.dll
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\bin\Debug\net7.0\InKeyword.pdb
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\obj\Debug\net7.0\InKeyword.csproj.AssemblyReference.cache
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\obj\Debug\net7.0\InKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\obj\Debug\net7.0\InKeyword.AssemblyInfoInputs.cache
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\obj\Debug\net7.0\InKeyword.AssemblyInfo.cs
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\obj\Debug\net7.0\InKeyword.csproj.CoreCompileInputs.cache
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\obj\Debug\net7.0\InKeyword.dll
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\obj\Debug\net7.0\refint\InKeyword.dll
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\obj\Debug\net7.0\InKeyword.pdb
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\obj\Debug\net7.0\InKeyword.genruntimeconfig.cache
+C:\Users\ftumer\source\repos\InKeyword\InKeyword\obj\Debug\net7.0\ref\InKeyword.dll
